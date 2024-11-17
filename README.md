@@ -26,9 +26,9 @@ Install dependencies
   pip install -r requirements.txt
 ```
 
-Then download the the model weights from [download weights](https://drive.google.com/drive/u/0/folders/1J61ddPIgYOKxMXutxe02b4-Xto_1mtrt) and you are ready to go!
+Then download the the model weights from [download weights](https://drive.google.com/drive/u/0/folders/1J61ddPIgYOKxMXutxe02b4-Xto_1mtrt) and you are ready to go! You can now run [Main findings doc](https://github.com/Cata1406/Taller2-CDA/blob/main/preprocessing.ipynb)
 
 
 ## Documentation
 
-[Main findings doc](https://uniandes-my.sharepoint.com/:w:/g/personal/l_gomez1_uniandes_edu_co/ESa6VY5myVlOsdmUOcfogjgBUtMjorVubSVxKbvSr8vs1Q?e=wIgyYi)
+[Main findings doc](https://github.com/Cata1406/Taller2-CDA/blob/main/Docs/Documento.pdf)
